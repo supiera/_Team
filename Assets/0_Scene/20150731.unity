@@ -368,7 +368,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _enemySet: {fileID: 170504, guid: 9b5fa16838f2bb348b7bdb3d753a42f5, type: 2}
   _farBgObj: {fileID: 1054241015}
-  _PlayerObjPool: {fileID: 421598227}
+  _PlayerObjPool: {fileID: 1865570089}
   _SpwanChk: 1
 --- !u!4 &172430691
 Transform:
