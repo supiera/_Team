@@ -44,34 +44,16 @@ MonoBehaviour:
   - name: Character_Shield
     outer:
       serializedVersion: 2
-      x: 1370
-      y: 1280
+      x: 3117
+      y: 3504
       width: 86
       height: 132
     inner:
       serializedVersion: 2
-      x: 1370
-      y: 1280
+      x: 3117
+      y: 3504
       width: 86
       height: 132
-    rotated: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: Bg_1_far
-    outer:
-      serializedVersion: 2
-      x: 0
-      y: 1248
-      width: 1280
-      height: 800
-    inner:
-      serializedVersion: 2
-      x: 0
-      y: 1248
-      width: 1280
-      height: 800
     rotated: 0
     paddingLeft: 0
     paddingRight: 0
@@ -80,14 +62,14 @@ MonoBehaviour:
   - name: Character_Sword
     outer:
       serializedVersion: 2
-      x: 1281
-      y: 1413
+      x: 2911
+      y: 3387
       width: 72
       height: 249
     inner:
       serializedVersion: 2
-      x: 1281
-      y: 1413
+      x: 2911
+      y: 3387
       width: 72
       height: 249
     rotated: 0
@@ -98,14 +80,14 @@ MonoBehaviour:
   - name: Character_Shield2
     outer:
       serializedVersion: 2
-      x: 1281
-      y: 1278
+      x: 2984
+      y: 3369
       width: 88
       height: 134
     inner:
       serializedVersion: 2
-      x: 1281
-      y: 1278
+      x: 2984
+      y: 3369
       width: 88
       height: 134
     rotated: 0
@@ -116,14 +98,14 @@ MonoBehaviour:
   - name: Character_Body
     outer:
       serializedVersion: 2
-      x: 1354
-      y: 1450
+      x: 3589
+      y: 3824
       width: 67
       height: 79
     inner:
       serializedVersion: 2
-      x: 1354
-      y: 1450
+      x: 3589
+      y: 3824
       width: 67
       height: 79
     rotated: 0
@@ -134,14 +116,14 @@ MonoBehaviour:
   - name: Character_FaceNormal
     outer:
       serializedVersion: 2
-      x: 1281
-      y: 1856
+      x: 3589
+      y: 3904
       width: 236
       height: 192
     inner:
       serializedVersion: 2
-      x: 1281
-      y: 1856
+      x: 3589
+      y: 3904
       width: 236
       height: 192
     rotated: 0
@@ -152,14 +134,14 @@ MonoBehaviour:
   - name: Character_LeftArm
     outer:
       serializedVersion: 2
-      x: 1992
-      y: 1951
+      x: 3708
+      y: 3857
       width: 25
       height: 46
     inner:
       serializedVersion: 2
-      x: 1992
-      y: 1951
+      x: 3708
+      y: 3857
       width: 25
       height: 46
     rotated: 0
@@ -170,14 +152,14 @@ MonoBehaviour:
   - name: Character_RightLeg
     outer:
       serializedVersion: 2
-      x: 1992
-      y: 1928
+      x: 3657
+      y: 3830
       width: 18
       height: 22
     inner:
       serializedVersion: 2
-      x: 1992
-      y: 1928
+      x: 3657
+      y: 3830
       width: 18
       height: 22
     rotated: 0
@@ -188,14 +170,14 @@ MonoBehaviour:
   - name: Character_RightArm
     outer:
       serializedVersion: 2
-      x: 2018
-      y: 1951
+      x: 3734
+      y: 3857
       width: 25
       height: 46
     inner:
       serializedVersion: 2
-      x: 2018
-      y: 1951
+      x: 3734
+      y: 3857
       width: 25
       height: 46
     rotated: 0
@@ -206,14 +188,14 @@ MonoBehaviour:
   - name: Character_FaceDamaged
     outer:
       serializedVersion: 2
-      x: 1518
-      y: 1856
+      x: 3826
+      y: 3904
       width: 236
       height: 192
     inner:
       serializedVersion: 2
-      x: 1518
-      y: 1856
+      x: 3826
+      y: 3904
       width: 236
       height: 192
     rotated: 0
@@ -224,14 +206,14 @@ MonoBehaviour:
   - name: Character_FaceDead
     outer:
       serializedVersion: 2
-      x: 1755
-      y: 1856
+      x: 2674
+      y: 3502
       width: 236
       height: 192
     inner:
       serializedVersion: 2
-      x: 1755
-      y: 1856
+      x: 2674
+      y: 3502
       width: 236
       height: 192
     rotated: 0
@@ -242,14 +224,14 @@ MonoBehaviour:
   - name: Character_FaceSmile
     outer:
       serializedVersion: 2
-      x: 1281
-      y: 1663
+      x: 2674
+      y: 3309
       width: 236
       height: 192
     inner:
       serializedVersion: 2
-      x: 1281
-      y: 1663
+      x: 2674
+      y: 3309
       width: 236
       height: 192
     rotated: 0
@@ -260,14 +242,14 @@ MonoBehaviour:
   - name: Character_LeftLeg
     outer:
       serializedVersion: 2
-      x: 2011
-      y: 1928
+      x: 3676
+      y: 3830
       width: 18
       height: 22
     inner:
       serializedVersion: 2
-      x: 2011
-      y: 1928
+      x: 3676
+      y: 3830
       width: 18
       height: 22
     rotated: 0
@@ -278,34 +260,16 @@ MonoBehaviour:
   - name: 0_black
     outer:
       serializedVersion: 2
-      x: 1992
-      y: 1998
+      x: 3657
+      y: 3853
       width: 50
       height: 50
     inner:
       serializedVersion: 2
-      x: 1992
-      y: 1998
+      x: 3657
+      y: 3853
       width: 50
       height: 50
-    rotated: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: UI_EnergeBar
-    outer:
-      serializedVersion: 2
-      x: 0
-      y: 908
-      width: 578
-      height: 57
-    inner:
-      serializedVersion: 2
-      x: 0
-      y: 908
-      width: 578
-      height: 57
     rotated: 0
     paddingLeft: 0
     paddingRight: 0
@@ -314,14 +278,14 @@ MonoBehaviour:
   - name: UI_GuageBG
     outer:
       serializedVersion: 2
-      x: 0
-      y: 966
+      x: 2674
+      y: 3815
       width: 914
       height: 281
     inner:
       serializedVersion: 2
-      x: 0
-      y: 966
+      x: 2674
+      y: 3815
       width: 914
       height: 281
     rotated: 0
@@ -332,14 +296,14 @@ MonoBehaviour:
   - name: UI_SkilStock
     outer:
       serializedVersion: 2
-      x: 1518
-      y: 1798
+      x: 3826
+      y: 3846
       width: 238
       height: 57
     inner:
       serializedVersion: 2
-      x: 1518
-      y: 1798
+      x: 3826
+      y: 3846
       width: 238
       height: 57
     rotated: 0
@@ -350,16 +314,70 @@ MonoBehaviour:
   - name: UI_FeverBar
     outer:
       serializedVersion: 2
-      x: 1354
-      y: 1530
+      x: 2984
+      y: 3504
       width: 132
       height: 132
     inner:
       serializedVersion: 2
-      x: 1354
-      y: 1530
+      x: 2984
+      y: 3504
       width: 132
       height: 132
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Road
+    outer:
+      serializedVersion: 2
+      x: 2674
+      y: 3695
+      width: 889
+      height: 119
+    inner:
+      serializedVersion: 2
+      x: 2674
+      y: 3695
+      width: 889
+      height: 119
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: UI_EnergeBar
+    outer:
+      serializedVersion: 2
+      x: 2911
+      y: 3637
+      width: 578
+      height: 57
+    inner:
+      serializedVersion: 2
+      x: 2911
+      y: 3637
+      width: 578
+      height: 57
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: bg_1_Mountain
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 3296
+      width: 2673
+      height: 800
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 3296
+      width: 2673
+      height: 800
     rotated: 0
     paddingLeft: 0
     paddingRight: 0
