@@ -24,6 +24,7 @@ public class PlayerScript : MonoBehaviour {
 	{
 		_hp--;
 		_anim.SetBool("damageChk", true);
+		_anim.SetBool ("damageAny", true);
 		_GuageBarWidget.fillAmount = _hp * 0.01f;
 
 	}
