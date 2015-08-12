@@ -338,7 +338,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 147362}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 640, y: 42, z: 0}
+  m_LocalPosition: {x: 640, y: -9.15527344e-05, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 457394}
@@ -366,7 +366,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 170504}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -960, y: -3.05175781e-05, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 470278}
@@ -381,7 +381,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 199564}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1280, y: 42, z: 0}
+  m_LocalPosition: {x: 1280, y: -9.15527344e-05, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 487726}
@@ -421,7 +421,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 126032}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 42, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 408642}
@@ -810,7 +810,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d919731313f1234ca63230702f64a42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: -1.5
+  _speed: -2
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
@@ -820,7 +820,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 0}
       propertyPath: _speed
-      value: -1.5
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 0}
       propertyPath: m_Center.z
@@ -833,10 +833,6 @@ Prefab:
     - target: {fileID: 0}
       propertyPath: m_UseGravity
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 0}
-      propertyPath: m_LocalPosition.y
-      value: 42
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
