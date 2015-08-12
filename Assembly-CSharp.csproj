@@ -171,6 +171,7 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\aaaa.cs" />
      <Compile Include="Assets\anima.cs" />
      <Compile Include="Assets\sc.cs" />
      <Compile Include="Assets\sp.cs" />
